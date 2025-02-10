@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=2000&pause=100&color=F7F7F7&width=435&lines=coffin+bot+developer;coffin.bot;%40vultrs+on+discord;discord.gg/okay;self-taught developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=2000&pause=100&color=F7F7F7&width=435&lines=coffin+bot+developer;coffin.lol;%40oewd+on+discord;discord.gg/sore;self-taught developer" alt="Typing SVG" /></a>
